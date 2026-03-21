@@ -5,16 +5,22 @@
 <table>
 <tr>
 <td>
-🎓 B.Tech Final Year Student (2022-2026)  
-🌱 Currently learning MERN Stack & Backend Development  
-💡 Strong in SQL, SAP ABAP & Problem Solving  
-🧠 Solved 100+ SQL problems on LeetCode  
-🔍 Interested in Web Development & Data Handling  
-🤝 Open to internships & collaborations  
+
+<ul>
+<li>🎓 B.Tech Final Year Student (2022-2026)</li>
+<li>🌱 Currently learning MERN Stack & Backend Development</li>
+<li>💡 Strong in SQL, SAP ABAP & Problem Solving</li>
+<li>🧠 Solved 100+ SQL problems on LeetCode</li>
+<li>🔍 Interested in Web Development & Data Handling</li>
+<li>🤝 Open to internships & collaborations</li>
+</ul>
+
 </td>
+
 <td>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </td>
+
 </tr>
 </table>
 
