@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rupesh Pandey</h1>
 <h3 align="center">🚀 Full Stack Developer(MERN) | SQL Enthusiast | SAP ABAP Developer | Problem Solver</h3>
-<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RidnlncGljNXJncnBpdnkxOXd1MWF3Y2E2enZvNGNuZWZqb2NieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 💫 About Me:
 <br>🎓 B.Tech Final Year Student (2022-2026)<br>🌱 Currently learning MERN Stack & Backend Development<br>💡 Strong in SQL, SAP ABAP & Problem Solving<br>🧠 Solved 100+ SQL problems on LeetCode<br>🔍 Interested in Web Development & Data Handling<br>🤝 Open to internships & collaborations
 
