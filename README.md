@@ -1,5 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Rupesh Pandey</h1>
+<h3 align="center">🚀 Full Stack Developer | SQL Enthusiast | SAP ABAP Developer | Problem Solver</h3>
 # 💫 About Me:
-Hi 👋, I'm Rupesh Pandey<br>💻 Full Stack Developer | SQL Enthusiast | SAP ABAP Developer | Problem Solver<br>🚀 About Me<br>🎓 B.Tech Final Year Student (2022-2026)<br>🌱 Currently learning MERN Stack & Backend Development<br>💡 Strong in SQL, SAP ABAP & Problem Solving<br>🧠 Solved 100+ SQL problems on LeetCode<br>🔍 Interested in Web Development & Data Handling<br>🤝 Open to internships & collaborations
+<br>🎓 B.Tech Final Year Student (2022-2026)<br>🌱 Currently learning MERN Stack & Backend Development<br>💡 Strong in SQL, SAP ABAP & Problem Solving<br>🧠 Solved 100+ SQL problems on LeetCode<br>🔍 Interested in Web Development & Data Handling<br>🤝 Open to internships & collaborations
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rupesh-pandey123&color=blue)
 ## 🌐 Socials:
